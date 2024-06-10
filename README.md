@@ -1,0 +1,1 @@
+# TCC-Gerador_de_dados_aleatorios.
